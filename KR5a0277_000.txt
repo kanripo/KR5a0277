@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:15.684445
+# -*- mode: mandoku-view -*-
 #+TITLE: 還丹歌訣
-#+PROPERTY: DZID  DZ0265
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—885 一卷 洞真部方法類
+#+DATE: 2015-08-28 23:44:16
+#+PROPERTY:  LASTPB <PB KR5a0277_SJB_002-040891b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5a0277_HFL_002-005b>¶¶¶¶¶¶¶¶¶¶¶¶
+
